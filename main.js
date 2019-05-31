@@ -1,12 +1,3 @@
-alert('teste');
+import {soma} from './funcoes';
 
-
-class teste {
-    metodo(){
-
-    }
-
-    outro() {
-        
-    }
-}
+console.log(soma(1, 2));
